@@ -61,22 +61,10 @@
 
 ## 🧩 Внешние утилиты
 
-Программа использует две утилиты, которые **уже включены в архив релиза**. Если вы собираете проект самостоятельно, скачайте их и поместите в папку с `Xbox360GameManager.exe`:
+Программа использует две утилиты, которые уже включены в архив релиза. 
 
 - **[aria2](https://github.com/aria2/aria2/releases)** – для скачивания.
 - **[iso2god-rs](https://github.com/iliazeus/iso2god-rs/releases)** – для конвертации.
 
 ---
 
-## 🛠️ Сборка из исходников
-
-### Требования
-- [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
-
-### Команды
-```bash
-git clone https://github.com/ваш-username/Xbox360GameManager.git
-cd Xbox360GameManager
-dotnet restore
-dotnet build -c Release
-dotnet publish -c Release -r win-x64 --self-contained true -p:PublishSingleFile=true
