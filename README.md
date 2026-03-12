@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![.NET](https://img.shields.io/badge/.NET-8.0-green)](https://dotnet.microsoft.com/)
 [![Platform](https://img.shields.io/badge/platform-Windows-blue)
-[![Release](https://github.com/baibul2000/xbox360gameManager/releases)
+[![Release](https://github.com/baibul2000/xbox360gameManager/tag/XBOX360GAME/releases)
 
 Xbox 360 Game Manager — мощный инструмент с графическим интерфейсом для автоматизации процесса подготовки игр для Xbox 360. Программа скачивает образы игр с общедоступного репозитория, распаковывает их, конвертирует в формат GOD (Games on Demand) и при необходимости отправляет готовые файлы на консоль по FTP. Всё управление происходит через удобный интерфейс с несколькими вкладками и детальным логированием.
 
