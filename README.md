@@ -1,4 +1,4 @@
-# Xbox 360 Game Manager
+# Xbox 360 Game Manager(OLD VERSION 1.0)
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![.NET](https://img.shields.io/badge/.NET-8.0-green)](https://dotnet.microsoft.com/)
